@@ -49,7 +49,7 @@ const shortenUrl = () => {
 <style scoped>
 body {
   margin: 0;
-  font-family: 'Open Sans', sans-serif;
+  
 }
 
 #app {
@@ -59,6 +59,7 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .title {
